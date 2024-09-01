@@ -1,0 +1,9 @@
+Planet,Position_X,Position_Y,Position_Z,Velocity_X,Velocity_Y,Velocity_Z,Mass
+Mercury,0.387,0,0,0,0.2056,0,0.33
+Venus,0.723,0,0,0,0.1745,0,4.87
+Earth,1.0,0,0,0,0.127,0,5.97
+Mars,1.524,0,0,0,0.0933,0,0.642
+Jupiter,5.203,0,0,0,0.0473,0,1898.0
+Saturn,9.539,0,0,0,0.0348,0,568.0
+Uranus,19.18,0,0,0,0.0119,0,86.8
+Neptune,30.07,0,0,0,0.0061,0,102.0
